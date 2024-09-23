@@ -12,7 +12,7 @@ Separação da coluna endereço em quatro novas colunas: número, rua, cidade e 
 Remoção de colunas desnecessárias para simplificar a visualização e análise dos dados.
 Embora fosse possível aplicar fusões entre diferentes tabelas para criar uma nova tabela consolidada com informações combinadas, optei por realizar apenas pequenas transformações para manter o projeto mais enxuto e direto ao ponto.
 
-Por fim, foi criado um relatório simples no Power BI para facilitar a visualização dos dados e das transformações aplicadas. Vale lembrar que todos os dados utilizados são fictícios e têm caráter meramente ilustrativo
+Por fim, foi criado um relatório simples no Power BI para facilitar a visualização dos dados e das transformações aplicadas. Vale lembrar que todos os dados utilizados são fictícios e têm caráter meramente ilustrativo.
 
 ![image](https://github.com/user-attachments/assets/bd93d489-3f93-42c2-89ea-1a5885fd55c9)
 
