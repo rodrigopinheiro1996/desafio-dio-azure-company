@@ -14,7 +14,7 @@ Embora fosse possível aplicar fusões entre diferentes tabelas para criar uma n
 
 Por fim, foi criado um relatório simples no Power BI para facilitar a visualização dos dados e das transformações aplicadas. Vale lembrar que todos os dados utilizados são fictícios e têm caráter meramente ilustrativo.
 
-![image](https://github.com/user-attachments/assets/bd93d489-3f93-42c2-89ea-1a5885fd55c9)
+![image](https://github.com/user-attachments/assets/dd1ec71b-eece-4b20-9bbb-9551baf2b04c)
 
 ![image](https://github.com/user-attachments/assets/e20deee0-753c-4b29-a0ed-b76dac396931)
 
